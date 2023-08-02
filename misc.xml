@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/En4-BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_user_dashboard.xml" value="0.2" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.22900432900432902" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/drawable/ic_get_service_24.xml" value="0.23201754385964912" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/drawable/three_lines.xml" value="0.15657894736842104" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_add_service.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_display_received_request.xml" value="0.2" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_display_send_request.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_display_service_details.xml" value="0.12" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_google_map.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_main.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_otp_page.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_sign_in.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_sign_up.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_user_dashboard.xml" value="0.39599383667180277" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/activity_you_are_not_providing_service.xml" value="0.21842105263157896" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/marker_info_display.xml" value="0.12" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/menu_header.xml" value="0.2056159420289855" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/layout/single_element_recycler_layout.xml" value="0.21105072463768115" />
+        <entry key="..\:/En4_BE(Sem1)/BEProject/FarmHelp/app/src/main/res/menu/main_menu.xml" value="0.14298245614035088" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
